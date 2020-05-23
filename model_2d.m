@@ -1,6 +1,6 @@
 %MODEL_2D  Apply the 2-D model to an input image, beta. This version does
 %not recast layers as vectors and makes use of literal convolutions with
-%the kernel w. It may helpful for understanding the model, but will likely
+%the kernel w. It may be helpful for understanding the model, but will likely
 %be slower than model_2d_matrix().
 % sim_obj = model_2d(beta, T, dt);
 %

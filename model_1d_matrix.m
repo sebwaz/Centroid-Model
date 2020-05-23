@@ -1,6 +1,6 @@
 %MODEL_1D_MATRIX  Apply the 1-D model to an input image, beta. This version
 %casts everything as matrix operations and can (therefore) make use of
-%matlab's optimizations.
+%Matlab's optimizations.
 % sim_obj = model_1d_matrix(beta, T, dt);
 %
 % INPUTS:

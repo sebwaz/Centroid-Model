@@ -1,5 +1,5 @@
 %MODEL_1D  Apply the 1-D model to an input image, beta. This version makes
-%use of literal convolutions with the kernel w. It may helpful for
+%use of literal convolutions with the kernel w. It may be helpful for
 %understanding the model, but will likely be slower than model_1d_matrix().
 % sim_obj = model_1d(beta, T, dt);
 %
